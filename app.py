@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parent
 
 st.set_page_config(
     page_title="Bengaluru House Price Estimator",
-    page_icon="🏠",
+    page_icon="₹",
     layout="centered",
 )
 
